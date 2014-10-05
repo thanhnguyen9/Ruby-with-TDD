@@ -1,0 +1,2 @@
+def dichme
+end
